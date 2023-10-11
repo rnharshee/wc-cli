@@ -1,2 +1,2 @@
 # wc-cli
-Building my version of unix command line tool wc in Python
+Building my version of Unix command line tool wc in Python
