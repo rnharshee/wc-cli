@@ -1,10 +1,10 @@
 # wc-cli
-Building my version of Unix command line tool wc in Python
+Building my version of the Unix command line tool wc in Python
 
-# Below commands implemented 
-$ python3 wc.py filename
-$ python3 wc.py -c filename
-$ python3 wc.py -w filename
-$ python3 wc.py -m filename
-$ python3 wc.py -l filename
+# Commands implemented in the script
+$ python3 wc.py filename <br />
+$ python3 wc.py -c filename <br />
+$ python3 wc.py -w filename <br />
+$ python3 wc.py -m filename <br />
+$ python3 wc.py -l filename <br />
 $ cat filename | python3 wc.py
