@@ -1,5 +1,5 @@
 # wc-cli
-Building my version of the Unix command line tool wc in Python
+Building my version of the Unix command line tool wc in Python using argparse library
 
 # Commands implemented in the script
 ~$ python3 wc.py filename <br />
